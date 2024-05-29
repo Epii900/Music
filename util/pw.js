@@ -1,6 +1,6 @@
-const status = "AUTOMATIC";
-const botName = "💎 PRIME MUSIC";
-const Text = "GlaceYT";
+const status = "OTOMATİK";
+const botName = "MÜZİK BOT";
+const Text = "EPİ";
 const version = "Latest@ v1.0"; 
 const startTime = Date.now();
 
